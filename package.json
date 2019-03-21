@@ -1,0 +1,19 @@
+{
+  "name": "wearetoocrazy.com",
+  "version": "1.0.0",
+  "description": "watc site ",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Luis A. Castillo",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-sass": "^4.0.2"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}

@@ -1,2 +1,83 @@
-.header--blue-lighteen {
-  background-color: #eeffaf; }
+.primary-menu-menu > li > a {
+  color: #009ea9; }
+
+.bg-primary-color {
+  background-color: #009ea9; }
+
+.c-primary {
+  color: #009ea9;
+  fill: #009ea9; }
+
+.bg-green {
+  background-color: #009ea9; }
+
+.bg-pamaranch {
+  background-color: #009ea9; }
+
+.bg-red {
+  background-color: #009ea9; }
+
+.btn--red {
+  background-color: #009ea9; }
+
+.btn--red.btn--with-shadow::after {
+  box-shadow: 10px 0 30px 0 #24cd98; }
+
+.btn--yellow {
+  background-color: #009ea9; }
+
+.btn--yellow.btn--with-shadow::after {
+  box-shadow: 10px 0 30px 0 #24cd98; }
+
+.btn--green-light {
+  background-color: #009ea9; }
+
+.footer {
+  background-color: #014656; }
+
+.w-info .logo-title {
+  color: white; }
+
+body {
+  color: white; }
+
+.w-list .list li a {
+  color: white; }
+
+.contact-item .utouch-icon {
+  color: #009ea9;
+  fill: #009ea9; }
+
+.btn--green {
+  background-color: #24cd98; }
+
+.w-follow .utouch-icon {
+  color: white;
+  fill: white; }
+
+.bg-blue-lighteen {
+  background-color: #009ea9; }
+
+.slides-item {
+  background-color: #24cd98; }
+
+.swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active {
+  background-color: #24cd98; }
+
+.btn-prev .utouch-icon,
+.btn-next .utouch-icon {
+  color: #24cd98;
+  fill: #24cd98; }
+
+.back-to-top {
+  background-color: #24cd98; }
+
+.sub-footer .sub-footer__link {
+  color: #24cd98; }
+
+.info-box--standard .utouch-icon {
+  height: 32px;
+  width: 32px;
+  margin-right: 25px;
+  fill: #24cd98;
+  color: #24cd98; }

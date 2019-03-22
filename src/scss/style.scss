@@ -2,6 +2,10 @@
 // verde intenso #24cd98
 // verde oscuro #014656
 
+.footer .widget-title {
+  color: #009ea9;
+}
+
 .primary-menu-menu > li > a {
   color: #009ea9;
 }
@@ -50,9 +54,6 @@
   color: white;
 }
 
-body {
-  color: white;
-}
 .w-list .list li a {
   color: white;
 }
@@ -65,8 +66,8 @@ body {
 }
 
 .w-follow .utouch-icon {
-  color: white;
-  fill: white;
+  color: #009ea9;
+  fill: #009ea9;
 }
 
 .bg-blue-lighteen {
@@ -101,4 +102,28 @@ body {
   margin-right: 25px;
   fill: #24cd98;
   color: #24cd98;
+}
+
+.bg-rose {
+  background-color: #24cd98;
+}
+
+.bg-violet {
+  background-color: #009ea9;
+}
+
+.footer {
+  background-color: #ecf5fe;
+}
+
+.w-list .list li a {
+  color: #009ea9;
+}
+
+.w-info .logo-title {
+  color: #009ea9;
+}
+
+.w-info .learn-more {
+  color: #009ea9;
 }

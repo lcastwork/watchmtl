@@ -125,3 +125,12 @@ standard .utouch-icon {
 
 .post:hover .post__title {
   color: #009ea9; }
+
+.btn--orange-light.btn--with-shadow::after {
+  box-shadow: 10px 0 30px 0 #009ea9; }
+
+.btn--orange-light.btn--with-shadow::after {
+  box-shadow: 10px 0 30px 0 #009ea9; }
+
+.btn--orange-light {
+  background-color: #24cd98; }
